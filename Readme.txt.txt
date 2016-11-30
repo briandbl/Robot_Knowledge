@@ -10,3 +10,11 @@ https://developer.amazon.com
 
 
 https://github.com/NickQian/Robi-Transform-Project
+
+
+http://blog.csdn.net/zister/article/details/51767539
+
+
+http://moveit.ros.org/moveit!/ros/2016/11/01/moveit-community.html
+
+
