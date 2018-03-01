@@ -17,4 +17,8 @@ http://blog.csdn.net/zister/article/details/51767539
 
 http://moveit.ros.org/moveit!/ros/2016/11/01/moveit-community.html
 
+//2016 IDF PPT 
+Introduction to Autonomous Robotics
+https://github.com/briandbl/CSDK/blob/master/SOFHL01%20-%20SF16_SOFHL01_100f.pdf
+
 
