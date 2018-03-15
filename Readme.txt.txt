@@ -42,7 +42,24 @@ https://basicmi.github.io/Deep-Learning-Processor-List/
 MOBBOB »úÆ÷ÈË LESS IS MORE
 http://www.cevinius.com/2015/09/19/detailed-mobbob-build-instructions/
 
+//ARM-IOT
+
+https://www.arm.com/files/ppt/ARM_Processors_and_Architectures_-_Uni_Program_.pptx
+
+https://training.ti.com/system/files/docs/sitara_boot_camp_03_giving_linux_the_boot.pptx
+
+http://sharcs-project.eu/m/documents/WP6-Dissemination-HiPEAC-HESES-2016-01-20-Prague-HannesTschofenig.pptx
+
+http://www.emcu.eu/wp-content/uploads/2017/06/04-mbed-Intro.pptx
+
+http://users.nik.uni-obuda.hu/sima/letoltes/magyar/SZA2016_osz/nappali/ARM_processors_lecture_2016_12_07.pptx
 
 
+//alibaba 
+https://os.mbed.com/docs/v5.7/reference/rtos.html
+
+https://job.alibaba.com/zhaopin/position_detail.htm?positionId=36217
+
+https://www.hyperledger.org/hyperledger-fabric-1-0
 
 
