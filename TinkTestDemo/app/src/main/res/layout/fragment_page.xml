@@ -1,0 +1,23 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview_circle"
+            android:layout_below="@+id/layout_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="1dp"
+            android:paddingRight="1dp"
+            android:scrollbars="vertical"
+            android:scrollbarSize="3dp">
+        </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+
+</ScrollView>
