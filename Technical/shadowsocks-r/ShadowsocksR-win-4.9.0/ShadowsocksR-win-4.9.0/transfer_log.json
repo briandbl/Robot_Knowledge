@@ -12,20 +12,20 @@
 		"totalDownloadBytes" : 668232103
 	},
 	"node6.cn.pro.mui.host" : {
-		"totalUploadBytes" : 10617523,
-		"totalDownloadBytes" : 314046111
+		"totalUploadBytes" : 10623406,
+		"totalDownloadBytes" : 314055627
 	},
 	"node-ph2.mui.host" : {
 		"totalUploadBytes" : 33562,
 		"totalDownloadBytes" : 325248
 	},
 	"hk-pro-6.mui.host" : {
-		"totalUploadBytes" : 199261899,
-		"totalDownloadBytes" : 555759640
+		"totalUploadBytes" : 199264422,
+		"totalDownloadBytes" : 555764679
 	},
 	"us-qn.mui.host" : {
-		"totalUploadBytes" : 526377,
-		"totalDownloadBytes" : 12148982
+		"totalUploadBytes" : 533966,
+		"totalDownloadBytes" : 12165816
 	},
 	"node-download4.mui.host" : {
 		"totalUploadBytes" : 1442725,
@@ -44,8 +44,8 @@
 		"totalDownloadBytes" : 10262571
 	},
 	"node1.cn.pro.mui.host" : {
-		"totalUploadBytes" : 10824794,
-		"totalDownloadBytes" : 375327263
+		"totalUploadBytes" : 10831288,
+		"totalDownloadBytes" : 375350912
 	},
 	"c3-cn2.mui.host" : {
 		"totalUploadBytes" : 1866170,
@@ -60,8 +60,8 @@
 		"totalDownloadBytes" : 275008821
 	},
 	"hk-pccw.mui.host" : {
-		"totalUploadBytes" : 7541005,
-		"totalDownloadBytes" : 313681632
+		"totalUploadBytes" : 7545776,
+		"totalDownloadBytes" : 313696281
 	},
 	"wean.mui.host" : {
 		"totalUploadBytes" : 1658728,
@@ -84,8 +84,8 @@
 		"totalDownloadBytes" : 31257386
 	},
 	"jp-node-6.mui.host" : {
-		"totalUploadBytes" : 2415263,
-		"totalDownloadBytes" : 92853384
+		"totalUploadBytes" : 2418328,
+		"totalDownloadBytes" : 92861261
 	},
 	"node-uk.mui.host" : {
 		"totalUploadBytes" : 863862,
@@ -100,12 +100,12 @@
 		"totalDownloadBytes" : 33612212
 	},
 	"node.hk.09.mui.host" : {
-		"totalUploadBytes" : 187773204,
-		"totalDownloadBytes" : 533934024
+		"totalUploadBytes" : 187779099,
+		"totalDownloadBytes" : 533986768
 	},
 	"node.hk.08.mui.host" : {
-		"totalUploadBytes" : 10276746,
-		"totalDownloadBytes" : 290459559
+		"totalUploadBytes" : 10282800,
+		"totalDownloadBytes" : 290481977
 	},
 	"node-kr-4.mui.host" : {
 		"totalUploadBytes" : 29189,
@@ -120,8 +120,8 @@
 		"totalDownloadBytes" : 35036174
 	},
 	"node4.cn.pro.mui.host" : {
-		"totalUploadBytes" : 8301701,
-		"totalDownloadBytes" : 240231302
+		"totalUploadBytes" : 8304007,
+		"totalDownloadBytes" : 240242910
 	},
 	"node.jp.07.mui.host" : {
 		"totalUploadBytes" : 2090921,
@@ -132,32 +132,32 @@
 		"totalDownloadBytes" : 191664
 	},
 	"node.hk.11.mui.host" : {
-		"totalUploadBytes" : 5513789,
-		"totalDownloadBytes" : 147218751
+		"totalUploadBytes" : 5518070,
+		"totalDownloadBytes" : 147277880
 	},
 	"hk-meo.mui.host" : {
-		"totalUploadBytes" : 13867753,
-		"totalDownloadBytes" : 361094289
+		"totalUploadBytes" : 13883781,
+		"totalDownloadBytes" : 361180439
 	},
 	"jp-4.mui.host" : {
-		"totalUploadBytes" : 3017408,
-		"totalDownloadBytes" : 57880172
+		"totalUploadBytes" : 3024995,
+		"totalDownloadBytes" : 57991763
 	},
 	"jp-kddi.mui.host" : {
 		"totalUploadBytes" : 2819898,
 		"totalDownloadBytes" : 50736688
 	},
 	"tw4.mui.host" : {
-		"totalUploadBytes" : 12307971,
-		"totalDownloadBytes" : 121557538
+		"totalUploadBytes" : 12310354,
+		"totalDownloadBytes" : 121569473
 	},
 	"node-tw2.mui.host" : {
 		"totalUploadBytes" : 5263132,
 		"totalDownloadBytes" : 129509324
 	},
 	"jp-idcf.mui.host" : {
-		"totalUploadBytes" : 2577769,
-		"totalDownloadBytes" : 118122406
+		"totalUploadBytes" : 2584876,
+		"totalDownloadBytes" : 118197231
 	},
 	"jp-iij.mui.host" : {
 		"totalUploadBytes" : 22691,
@@ -168,8 +168,8 @@
 		"totalDownloadBytes" : 34486248
 	},
 	"node5.cn.pro.mui.host" : {
-		"totalUploadBytes" : 5109409,
-		"totalDownloadBytes" : 134335550
+		"totalUploadBytes" : 5123159,
+		"totalDownloadBytes" : 134387302
 	},
 	"sg-pccw.mui.host" : {
 		"totalUploadBytes" : 107386,
@@ -188,16 +188,16 @@
 		"totalDownloadBytes" : 431037474
 	},
 	"node2.cn.pro.mui.host" : {
-		"totalUploadBytes" : 115623877,
-		"totalDownloadBytes" : 324765441
+		"totalUploadBytes" : 115628948,
+		"totalDownloadBytes" : 324786153
 	},
 	"jp-ntt.mui.host" : {
 		"totalUploadBytes" : 3985578,
 		"totalDownloadBytes" : 116916531
 	},
 	"tw3.mui.host" : {
-		"totalUploadBytes" : 3319011,
-		"totalDownloadBytes" : 96632644
+		"totalUploadBytes" : 3321052,
+		"totalDownloadBytes" : 96644745
 	},
 	"node.hk.10.mui.host" : {
 		"totalUploadBytes" : 4775883,
@@ -212,8 +212,8 @@
 		"totalDownloadBytes" : 104383
 	},
 	"us-node-c3.mui.host" : {
-		"totalUploadBytes" : 490590,
-		"totalDownloadBytes" : 3314222
+		"totalUploadBytes" : 492734,
+		"totalDownloadBytes" : 6395022
 	},
 	"us-vp.mui.host" : {
 		"totalUploadBytes" : 2653298,
