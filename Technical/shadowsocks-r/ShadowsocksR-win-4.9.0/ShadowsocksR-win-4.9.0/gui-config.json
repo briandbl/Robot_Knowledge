@@ -987,7 +987,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 10,
+	"index" : 45,
 	"random" : true,
 	"sysProxyMode" : 3,
 	"shareOverLan" : false,
@@ -1019,7 +1019,7 @@
 		{
 			"URL" : "https://api.boomss.host/ssr/11623/c511b0b67423d1170d9f76d6c3555136",
 			"Group" : "BoomCloud",
-			"LastUpdateTime" : 1542899886
+			"LastUpdateTime" : 1543590281
 		}
 	],
 	"token" : {
